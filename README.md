@@ -26,4 +26,3 @@ output
 |-other_example.wav\
 |-rhythm_example.wav (drum + bass)\
 |-melody_example.wav (vocals + other)\
- \
