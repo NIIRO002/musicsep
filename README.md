@@ -10,12 +10,12 @@ To get started, install the required packages:
 pip install git+https://github.com/facebookresearch/demucs.git
 pip install torch torchaudio
 pip install numpy==1.24.3
-
+```
 
 Terminal Command :
 ```bash
 python musiccontrol.py --input "example.wav" --output_folder "/path/to/output"
-
+```
 
 
 output
