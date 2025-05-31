@@ -20,10 +20,10 @@ python musiccontrol.py --input "example.wav" --output_folder "/path/to/output"
 
 output
 |
-|-drum_example.wav
-|-bass_example.wav
-|-vocals_example.wav
-|-other_example.wav
-|-rhythm_example.wav (drum + bass)
-|-melody_example.wav (vocals + other)
- 
+|-drum_example.wav\
+|-bass_example.wav\
+|-vocals_example.wav\
+|-other_example.wav\
+|-rhythm_example.wav (drum + bass)\
+|-melody_example.wav (vocals + other)\
+ \
